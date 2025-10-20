@@ -127,7 +127,6 @@ const translations: Record<Language, Record<string, string>> = {
     missionVisionTitle: "Our Mission & Vision",
     missionVisionSubtitle: "Building a Sustainable Future Together",
     missionVisionDesc: "Discover the driving force behind EcoCompost and understand how we're working together to create a cleaner, greener, and more sustainable world for future generations.",
-    ourMission: "Our Mission",
     environmentalProtection: "Environmental Protection",
     environmentalProtectionDesc: "Protecting our planet through sustainable waste management practices",
     communityBuilding: "Community Building",
@@ -158,7 +157,6 @@ const translations: Record<Language, Record<string, string>> = {
     leaderboardSubtitle: "Top Waste Contributors",
     leaderboardDesc: "Join our community of eco-warriors and see how you can make a difference. Every contribution counts towards a cleaner, greener future!",
     totalContributors: "Total Contributors",
-    wasteProcessed: "Waste Processed",
     co2Saved: "CO2 Saved",
     topContributorsThisMonth: "Top Contributors This Month",
     earnPoints: "Earn points for each kg",
@@ -201,7 +199,6 @@ const translations: Record<Language, Record<string, string>> = {
     getInvolvedDesc: "Join our community of eco-warriors and make a real difference in your city.",
     followUs: "Follow Us",
     followUsDesc: "Stay updated with our latest initiatives and success stories.",
-    contactUs: "Contact Us",
     contactUsDesc: "Have questions? We're here to help you get started.",
   },
   hi: {
