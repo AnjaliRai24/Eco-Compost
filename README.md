@@ -1,3 +1,10 @@
+# 🌿 Eco-Compost
+
+🚀 **Live Website:** [https://e-compost.netlify.app](https://e-compost.netlify.app)
+
+Eco-Compost is a sustainable waste management web application designed to promote eco-friendly composting practices and reduce organic waste.
+
+
 # EcoCompost - Wet Waste Collection & Vermicompost Platform
 
 A complete full-stack web application for wet waste collection and vermicompost sales with multilingual support (English, Hindi, Marathi).
